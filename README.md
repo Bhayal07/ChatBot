@@ -20,7 +20,7 @@ This project is a **Chatbot Application** built using Streamlit and Google's Gem
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Bhayal07/Chatbot-App.git
+   [git clone https://github.com/Bhayal07/Chatbot-App.git](https://urban-garbanzo-x556vg6gxr55fp6pg-8501.app.github.dev/)
    ```
 2. Navigate to the project directory:
    ```sh
